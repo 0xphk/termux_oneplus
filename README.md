@@ -1,17 +1,20 @@
-## custom 3 row termux 'extra-keys'
+## Custom 3 row termux 'extra-keys'
+Useful keyboard shortcuts/macros for more effective use of termux bash terminal.
+
+```version 1.02```
 ___
-#### see documentation: https://wiki.termux.com/wiki/Touch_Keyboard
+#### See documentation: https://wiki.termux.com/wiki/Touch_Keyboard
 ___
-**popup keys**
+**Popup keys**
 ___
 * long press ```ALT``` for ```ARG```
 * long press ```^D```  for ```^C```
 * long press ``` /```  for ``` |```
 * long press ``` ~```  for ``` -```
 
-**modifiers**
+**Modifiers**
 ___
-| modifier | action |
+| Modifier | Action |
 |--:|:--|
 |```#LINE``` | comment current line(command) and start new line (ALT + #) |
 |```CLEAR``` | clear screen |
